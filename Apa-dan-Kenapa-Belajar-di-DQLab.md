@@ -11,3 +11,5 @@ DQLab memahami pentingnya pembelajaran melalui pengalaman. Untuk itu, DQLab meny
 Outcome-based atau Fokus pada Output
 Setiap modul bertujuan untuk menghasilkan sesuatu setelah Anda menyelesaikannya, seperti chart sederhana atau model machine learning yang dapat diterapkan di dunia e-commerce. Dengan demikian, manfaatnya sangat besar bagi perkembangan keterampilan Anda.
 Di DQLab, kami telah mengintegrasikan Artificial Intelligence (AI) dalam bentuk chatbot untuk membantu Anda dalam menjelaskan praktek dan kesalahan yang mungkin terjadi. Penerapan AI ini menjadi yang pertama di Indonesia untuk online learning umum di bidang data science dan AI, yang bermanfaat meningkatkan pengalaman belajar yang baik.
+
+![image.png]({https://drive.google.com/file/d/1l41bABDtPZR2tI5mS7V6XnUmcLWDgZsi/view?usp=drive_link} )
